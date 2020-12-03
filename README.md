@@ -6,4 +6,4 @@ Dependencies:
 sys\
 requests\
 math\
-Pillow\
+Pillow
