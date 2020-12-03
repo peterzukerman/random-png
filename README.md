@@ -6,6 +6,6 @@ Dependencies:\
 sys\
 math\
 requests\
-Pillow\n
+Pillow
 
 Pillow and requests installed through pip/pip3 and respective name
