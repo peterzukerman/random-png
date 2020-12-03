@@ -2,8 +2,10 @@
 
 USAGE: python3 randomPNG.py width height\
 
-Dependencies:
+Dependencies:\
 sys\
-requests\
 math\
-Pillow
+requests\
+Pillow\n
+
+Pillow and requests installed through pip/pip3 and respective name
